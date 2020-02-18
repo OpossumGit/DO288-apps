@@ -8,4 +8,5 @@
 #
 
 # Run the app
+echo "No habla espanol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 exec /opt/app-root/app --lang es
